@@ -9,10 +9,12 @@ body{
 /* Navbar */
 nav{
     position: fixed;
+    height: 100vh;
 }
 #side-bar{
     border-right: grey 2px solid;
-    height: 100vh;
+
+
 }
 nav li{
     line-height: 2.5;
